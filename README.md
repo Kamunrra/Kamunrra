@@ -4,6 +4,7 @@
 - 💞️ I'm looking to collaborate in web app projects.
 - 📫 How to reach me: kamunrra1@outlook.com
 - 📫 How to reach me: https://www.linkedin.com/in/giovanne-barbosa-0a6714261/
+-
 -  <div style="display: inline_block"><br>
   <img align="center" alt="Gio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
